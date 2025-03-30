@@ -79,5 +79,3 @@ This project is open-source and available under the **MIT License**.
 For any questions or suggestions, feel free to reach out or open an issue in the repository.
 
 ---
-
-**GitHub Repository**: [Your Repo Link Here]
