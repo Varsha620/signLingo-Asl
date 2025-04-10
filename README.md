@@ -53,6 +53,12 @@ The deep learning model consists of:
 4. Passes the features to the trained model for classification.
 5. Displays the predicted ASL letter in real-time.
 
+## Screenshots
+![sample](https://github.com/user-attachments/assets/5fe7b13e-1705-46aa-ac61-3a04ef2570fa)
+*Sample demo(done with threshold 3s)*
+
+
+
 ## Testing and Performance
 - Achieved **96% accuracy** on the test dataset.
 - Real-time recognition with low latency.
