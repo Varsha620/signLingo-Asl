@@ -85,3 +85,4 @@ This project is open-source and available under the **MIT License**.
 For any questions or suggestions, feel free to reach out or open an issue in the repository.
 
 ---
+**Developed by Danyl S john and Varsha Sabu✨**
